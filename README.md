@@ -1,4 +1,4 @@
-Custom Lint Rules
+Custom Lint Rules.
 =================
 
 The lint source code contains a lot of documentation on how to write
